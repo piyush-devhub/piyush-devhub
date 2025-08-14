@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/piyush-devhub](https://github.com/piyush-devhub)
 
-- 💬 Ask me about **Python,SQL,Statistics,Power BI,Excel**
+- 💬 Ask me about **Python,Machine Learning,SQL,Statistics,Power BI,Excel**
 
 - 📫 How to reach me **kerepiyush41@gmail.com**
 
