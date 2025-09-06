@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Piyush Kere</h1>
 <h3 align="center">Passionate about Data & Machine Learning | Skilled in Python, SQL, Power BI, Statistics and Excel | Building projects that solve real problems</h3>
 
-- 🔭 I’m currently working on [Data Analysis Project](https://github.com/piyush-devhub/Blinkit-Data-Analysis)
-
 - 🌱 I’m currently learning **Machine Learning**
 
 - 🤝 I’m looking for come one skilled in **Data Analysis/Data Science for Exciting Projects**
